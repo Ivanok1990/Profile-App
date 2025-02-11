@@ -20,7 +20,7 @@ Make sure you have the following installed:
 ### Steps to Install
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/TU-USUARIO/student-profile-app.git
+   git clone (https://github.com/Ivanok1990/Profile-App.git)
    ```
 2. **Navigate to the project folder:**
    ```sh
